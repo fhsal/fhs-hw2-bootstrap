@@ -15,6 +15,8 @@ Summary of work:
 
 >I will continue to try and get the colors to change - didn't have time to figure that out and could change some of them but wasn't satisfied with the result.  I mistakenly was working on next week's assignment rather than this one so ran out of time :)
 
+> got the background to change !
+
 Image of GitHub repository:
 
  
