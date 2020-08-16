@@ -17,6 +17,8 @@ Summary of work:
 
 > got the background to change !
 
+> added the extra credit to apply a stickey footer 
+
 Image of GitHub repository:
 
  
